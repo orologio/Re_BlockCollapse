@@ -1,0 +1,6 @@
+library
+Temp
+*.pidb
+*.unityproj
+*sln
+*userprefs
